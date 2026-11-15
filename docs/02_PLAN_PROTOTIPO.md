@@ -2,14 +2,14 @@
 
 ## Estado
 
-**No hay ilustraciones aprobadas.** La primera escena mixta será una **prueba de estilo**, no una versión publicada.
+**No hay ilustraciones aprobadas.** Las muestras existentes son **pruebas de estilo**, no versiones publicadas. La última imagen admirada por el creador es referencia de calidad, no aprobación canónica.
 
 ## Etapa A — Preparación de la primera lámina
 
 1. Confirmar que las decisiones D01–D22 están registradas.
 2. Elegir niño(s) humano(s) protagonista(s) y Karmany(s) llamativo(s) y adorable(s); sus identidades y apariencias **siguen abiertas**.
 3. Reunir referencias visuales aprobadas o declarar que el arte será una **propuesta nueva editorial NO CANÓNICA**.
-4. Dibujar la escena mixta con **lluvia suave y charcos**, figuras predominantes, fondo moderado y actividad exclusivamente de colorear.
+4. Ilustrar una escena elegida del [índice preliminar](06_INDICE_PROPUESTA_28_LAMINAS.md), con **Karmany protagonista, sin lluvia ni fondo**, y actividad exclusivamente de colorear para la primera prueba editorial nueva.
 5. Proponer título e instrucción corta para revisión.
 6. Entregar imagen individual y ficha con versión, procedencia y estado de aprobación.
 
@@ -53,4 +53,4 @@ Una corrección significativa vuelve a `en_revision`. Ningún archivo en `idea`,
 
 ## Decisiones aplazadas intencionalmente
 
-Longitud final, número de láminas del prototipo, selección de protagonistas, canon visual aprobado, contenido exacto de actividades, portada, sangrado y especificaciones de imprenta.
+Extensión exacta dentro del rango solicitado de 24–32, aprobación del índice provisional de 28 láminas, número de láminas del prototipo, selección de protagonistas, canon visual aprobado, títulos e instrucciones finales, portada, sangrado y especificaciones de imprenta.

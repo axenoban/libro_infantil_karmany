@@ -1,4 +1,4 @@
-# Guía visual y técnica de producción — v0.4
+# Guía visual y técnica de producción — v0.5
 
 **Estado:** guía de ejecución para pruebas, **no** guía artística definitiva. Las características visuales específicas se fijan tras aprobación de la primera lámina.
 
@@ -7,9 +7,9 @@
 - **Género visual:** infantil adorable, con fantasía amable.
 - **Humanos:** protagonistas representados como **niños**. No asignar nombres, atuendos canónicos ni diseños físicos sin aprobar.
 - **Karmanys:** privilegiar candidatos con atractivo visual para infancia, expresividad y encanto fantástico; elección por validar, nunca deducida solo de nombre/estadística.
-- **Escena principal:** figuras centrales de lectura inmediata, ilustración casi a página completa.
-- **Fondos:** detalle moderado, nunca competir con los protagonistas.
-- **Primera escena:** **lluvia suave y charcos**, tono lúdico, interacción amistosa sin relato canónico.
+- **Escena principal:** Karmany central y dominante, figuras de lectura inmediata, ilustración casi a página completa.
+- **Fondos (decisión actual):** **omitir fondos por el momento**; elementos gráficos mínimos solo si acompañan la acción y no distraen.
+- **Dirección posterior de muestras:** **sin lluvia**, Karmanys en primer plano, niños de apoyo. Las ideas de lluvia y charcos fueron descartadas para el enfoque actual.
 - **Trazado:** blanco y negro, alto contraste, contornos claros, áreas amplias para colorear.
 - **Texto:** título corto e instrucción breve en español; legible sin invadir el dibujo.
 - **Dificultad:** progresiva a lo largo del libro; no complicar innecesariamente la primera lámina.
@@ -21,7 +21,7 @@
 3. Espacios cerrados y suficientemente amplios para lápices/crayones; evitar enjambres de detalles.
 4. Evitar grandes rellenos negros, tramas grises o sombras cerradas que impidan colorear.
 5. Revisar ojos, manos, extremidades y accesorios a escala de impresión, sin superposiciones incoherentes.
-6. Lluvia y charcos dibujados de forma sencilla, sin cubrir rostros ni siluetas.
+6. No añadir lluvia, charcos ni entorno narrativo en las nuevas propuestas actuales; permitir solo acentos gráficos mínimos.
 7. No usar color en el arte final de interiores coloreables, salvo decisión editorial posterior.
 
 ## Producción propuesta para el prototipo (sujeta a QA)
@@ -49,3 +49,7 @@ No importar sin validación el estilo medieval, oscuro, realista o de cartas de 
 - [ ] Personajes/Karmanys están identificados o rotulados como propuestas no canónicas.
 - [ ] Título e instrucción están revisados ortográficamente.
 - [ ] Aprobación visual expresa del creador registrada en la ficha.
+
+## Referencia de acabado y niveles
+
+Consultar [umbral de calidad de la última muestra](05_REFERENCIA_VISUAL_CALIDAD.md). La **calidad artística constante** no debe confundirse con la **dificultad progresiva** de las páginas.

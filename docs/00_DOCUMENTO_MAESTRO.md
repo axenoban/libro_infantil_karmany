@@ -1,4 +1,4 @@
-# Documento maestro v0.4 — Libro infantil Karmany Monsta
+# Documento maestro v0.5 — Libro infantil Karmany Monsta
 
 **Fecha:** 2026-11-15  
 **Estado:** base editorial consolidada para preparar el primer prototipo; **arte visual no aprobado**.  
@@ -109,4 +109,24 @@ Los criterios técnicos **propuestos** (como resolución y márgenes) aparecen e
 
 Para las decisiones visuales definitivas, consultar [trazabilidad](03_TRAZABILIDAD_CANON.md) y [ficha individual](04_FICHA_LAMINA.md).
 
-**Próximo hito:** primera propuesta de la escena mixta lluviosa, fuera de la rama estable, para aprobación visual.
+**Hito actualizado:** validar la estructura ampliada del libro y utilizar el nivel artístico de la última muestra como piso de calidad. La escena lluviosa fue descartada como dirección actual.
+
+
+## 9. Adenda v0.5: decisiones posteriores y prioridad de versiones (2026-11-15)
+
+Las decisiones D01–D22 permanecen como **historial editorial**. Las correcciones posteriores del creador tienen prioridad cuando hay conflicto:
+
+- **D23 (actualiza D20 y D13 para producción actual):** explorar escenas **sin lluvia**, posteriormente **sin fondos por el momento**. La lluvia y los charcos fueron ideas de prueba superadas, no requisitos vigentes para nuevas páginas.
+- **D24 (ajuste de D03 y D14):** **dar más protagonismo a los Karmanys**, con niños como acompañantes cuando estén presentes; separar las partes del cuerpo para facilitar el coloreado.
+- **D25 (referencia de calidad):** la **última ilustración mostrada** (niño aventurero y Karmany grande y adorable) gustó al creador; se adopta como **mínimo de calidad gráfica** para las futuras pruebas. No queda aprobado ningún personaje o diseño como canon.
+- **D26 (alcance):** proponer un libro más extenso con **24–32 láminas**, sin decidir todavía la extensión definitiva.
+- **Propuesta abierta (NO decisión del creador):** **28 láminas interiores** en tres niveles, 22 páginas para colorear y 6 con actividades más colorear.
+
+Documentos operativos:
+- [Referencia visual de calidad](05_REFERENCIA_VISUAL_CALIDAD.md).
+- [Índice preliminar página por página](06_INDICE_PROPUESTA_28_LAMINAS.md).
+- [Plan estructurado en JSON](../editorial/plan_paginas.json).
+
+**Aclaración:** La muestra apreciada define **calidad y lenguaje visual**, no el elenco, el nombre, la especie ni la identidad anatómica del Karmany. La revisión de canon sigue pendiente.
+
+**Bloqueo editorial actual:** aprobación del índice y selección de primeras láminas a ilustrar. Hasta entonces, no registrar 28 como número aprobado ni publicar fichas de arte definitivo.
