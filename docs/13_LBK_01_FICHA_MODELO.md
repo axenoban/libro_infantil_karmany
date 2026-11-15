@@ -25,4 +25,11 @@
 - [ ] El creador aprueba explícitamente
 - [ ] PNG real archivado, referencia y hash registrados
 
-**Modelo visual:** pendiente de generación.
+**Modelo visual:** **PRIMERA MUESTRA GENERADA, PENDIENTE DE APROBACIÓN**.
+
+- Generación de referencia: `d2aa5e64-5a41-4a52-b3bd-030054e6b4ac`.
+- Imagen: `a_clean_black_and_white_line_art_character_model.png` (en la conversación; **aún NO incorporada como binario a GitHub**).
+- Medidas: `1536 × 1024 px`, RGB. Es una hoja horizontal de revisión visual, **no una lámina Carta ni maestro final de impresión**.
+- Tres vistas: frente, tres cuartos y perfil; dos expresiones. Comprobar en la revisión que los detalles coinciden entre vistas.
+- QA inicial: dos brazos/dos piernas en frontal y 3/4. En perfil parte de la anatomía queda oculta por la propia perspectiva; la continuidad debe validarse antes de declararla definitiva.
+- **Estado editorial:** `en_revision_visual_no_canonico`.
