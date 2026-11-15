@@ -11,8 +11,15 @@
     {
       "id": "LBK-01",
       "working_name": null,
-      "design_status": "primera_silueta_propuesta_no_aprobada",
-      "model_sheet": null,
+      "design_status": "primera_hoja_generada_en_revision",
+      "model_sheet": {
+        "generation_id": "d2aa5e64-5a41-4a52-b3bd-030054e6b4ac",
+        "filename": "a_clean_black_and_white_line_art_character_model.png",
+        "width": 1536,
+        "height": 1024,
+        "asset_in_github": false,
+        "status": "en_revision_visual"
+      },
       "approved": false,
       "pages_assigned": [],
       "identity_reference": "exclusivo_libro",
