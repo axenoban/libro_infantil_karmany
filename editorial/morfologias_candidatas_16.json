@@ -1,0 +1,151 @@
+{
+  "version": "0.1",
+  "status": "diseños_propuestos_no_aprobados",
+  "scope": "morfología de candidatos para discusión, no canon oficial",
+  "designs": [
+    {
+      "catalog_code": "K-02",
+      "catalog_name": "Aquaris",
+      "silhouette_proposal": "Mamífero acuático fantástico compacto, en cuatro apoyos",
+      "appendage_count_proposal": "2 aletas delanteras + 2 traseras; sin brazos extras",
+      "distinctive_features_proposal": "Cola ovalada y hocico redondo; pocos detalles",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-03",
+      "catalog_name": "Pyrox",
+      "silhouette_proposal": "Salamandra infantil alargada, base cuadrúpeda",
+      "appendage_count_proposal": "4 patas cortas, ninguna mano adicional",
+      "distinctive_features_proposal": "Cola larga con remate de llama estilizada solo como adorno no canónico",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-04",
+      "catalog_name": "Lumirra",
+      "silhouette_proposal": "Criatura pequeña vertical de cuerpo circular",
+      "appendage_count_proposal": "2 brazos + 2 piernas cortas",
+      "distinctive_features_proposal": "Cabeza redonda, mechón de luz propuesto como forma, sin poderes dibujados",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-05",
+      "catalog_name": "Floravia",
+      "silhouette_proposal": "Pequeño ser botánico bípedo con cuerpo de semilla",
+      "appendage_count_proposal": "2 brazos + 2 piernas, sin otros miembros",
+      "distinctive_features_proposal": "Corona de hojas amplias y vientre redondeado",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-06",
+      "catalog_name": "Brisu",
+      "silhouette_proposal": "Criatura ágil de inspiración liebre, silueta alargada",
+      "appendage_count_proposal": "2 patas traseras grandes + 2 patas anteriores pequeñas",
+      "distinctive_features_proposal": "Orejas largas y cola pequeña; diferenciarla de Selenix",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-07",
+      "catalog_name": "Rocerno",
+      "silhouette_proposal": "Cría compacta de inspiración rinoceronte pétreo",
+      "appendage_count_proposal": "4 patas gruesas, sin manos extras",
+      "distinctive_features_proposal": "Placas grandes en espalda y cuerno corto propuesto",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-08",
+      "catalog_name": "Mistolin",
+      "silhouette_proposal": "Espíritu redondo de contorno como nube suave",
+      "appendage_count_proposal": "2 brazos visibles; parte inferior flotante sin piernas",
+      "distinctive_features_proposal": "Bordes ondulados pero con áreas cerradas grandes",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-12",
+      "catalog_name": "Nimbara",
+      "silhouette_proposal": "Criatura de nube con base felina en cuatro apoyos",
+      "appendage_count_proposal": "4 patas y una cola curva",
+      "distinctive_features_proposal": "Orejas triangulares redondeadas y mechones suaves, sin lluvia",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-14",
+      "catalog_name": "Selenix",
+      "silhouette_proposal": "Zorro adorable de grandes orejas y cola voluminosa",
+      "appendage_count_proposal": "4 extremidades (dos delanteras y dos traseras), puede erguirse sobre traseras",
+      "distinctive_features_proposal": "Perfil de hocico zorruno y cola única; frente sin marca obligatoria",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-17",
+      "catalog_name": "Orial",
+      "silhouette_proposal": "Cría de ciervo esbelta, expresión tranquila",
+      "appendage_count_proposal": "4 patas delgadas; no brazos",
+      "distinctive_features_proposal": "Orejas separadas, hocico corto; brotes de asta solo si se aprueban",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-18",
+      "catalog_name": "Torkal",
+      "silhouette_proposal": "Tortuga fantástica robusta de caparazón visible",
+      "appendage_count_proposal": "4 patas y una cola pequeña; sin brazos adicionales",
+      "distinctive_features_proposal": "Caparazón con placas geométricas grandes aptas para colorear",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-23",
+      "catalog_name": "Eryndra",
+      "silhouette_proposal": "Ave fantástica redondeada de pecho amplio",
+      "appendage_count_proposal": "2 alas y 2 patas; sin brazos",
+      "distinctive_features_proposal": "Pico corto y abanico de plumas, cresta propia por aprobar",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-24",
+      "catalog_name": "Aeterna Draconis",
+      "silhouette_proposal": "Dragón infantil majestuoso de líneas suaves",
+      "appendage_count_proposal": "4 extremidades terrestres + 2 alas diferenciadas; una cola",
+      "distinctive_features_proposal": "Cuernos redondeados y alas membranosas, diseño especial por validar",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-25",
+      "catalog_name": "Zephyr",
+      "silhouette_proposal": "Planeador pequeño tipo ardilla voladora fantástica",
+      "appendage_count_proposal": "4 extremidades unidas por membrana; sin alas extras",
+      "distinctive_features_proposal": "Cola larga en cinta y orejas pequeñas",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-27",
+      "catalog_name": "Gemmir",
+      "silhouette_proposal": "Topo fantástico rechoncho",
+      "appendage_count_proposal": "4 patas; delanteras anchas de excavador",
+      "distinctive_features_proposal": "Nariz redondeada y placas minerales grandes en hombros",
+      "visual_reference": null,
+      "approved": false
+    },
+    {
+      "catalog_code": "K-28",
+      "catalog_name": "Vulkai",
+      "silhouette_proposal": "Cría de inspiración cabrito de chispa mágica",
+      "appendage_count_proposal": "4 patas con pezuñas suaves; sin brazos",
+      "distinctive_features_proposal": "Dos cuernitos y mechón de silueta flameante, sin poder elemental oficial",
+      "visual_reference": null,
+      "approved": false
+    }
+  ]
+}
