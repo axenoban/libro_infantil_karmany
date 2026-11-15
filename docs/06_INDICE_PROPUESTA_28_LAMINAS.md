@@ -1,6 +1,6 @@
 # Propuesta de índice — 28 láminas interiores (v0.5)
 
-> **PROPUESTA EDITORIAL, NO ÍNDICE APROBADO.** El creador solicitó un libro más extenso de **24–32 láminas**. Este esquema propone **28**, ajustable a 24 o 32 sin afectar el canon. Todos los títulos, escenas e instrucciones se revisarán antes de ilustrar. La elección de Karmanys y niños es **pendiente**. Fecha: 2026-11-15.
+> **PROPUESTA EDITORIAL, NO ÍNDICE APROBADO.** El creador no ha fijado todavía la extensión. **24–32 láminas son alternativas de planificación**, y este esquema propone **28** como una de ellas, revisable sin alterar el canon. Todos los títulos, escenas e instrucciones se revisarán antes de ilustrar. La elección de Karmanys y niños es **pendiente**. Fecha: 2026-11-15.
 
 ## Criterios de organización
 
@@ -66,7 +66,7 @@ Registrar: ID estable, bloque, título, modalidad, instrucción breve, Karmany(s
 
 ## Puertas de aprobación
 
-1. **Aprobar o corregir este índice** y la extensión exacta (24, 28, 32 u otro valor entre 24–32).
+1. **Aprobar o corregir este índice** y decidir la extensión final (puede ser 24, 28, 32 u otra cantidad).
 2. Confirmar elenco y apariencia de una lámina modelo; la última muestra solo valida dirección de **calidad gráfica**.
 3. Maquetar portada e interiores de prueba y hacer una prueba de coloreado / impresión.
 4. Producir láminas en lotes de 2–3 tras validación individual, sin colocar páginas no aprobadas en el PDF final.

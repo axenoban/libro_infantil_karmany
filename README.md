@@ -27,7 +27,7 @@ Proyecto editorial independiente para producir un **libro digital en PDF** con d
 - Cada página llevará **título breve e instrucción corta**.
 - Lienzo de trabajo **Carta vertical, 8,5 × 11 pulgadas (21,59 × 27,94 cm)**; el formato final para imprenta sigue abierto.
 - Entrega **PDF digital**, concebida para permitir posible impresión futura.
-- El creador pidió **24–32 láminas**; propuesta editorial actual de **28 interiores** por aprobar. El número de páginas del primer prototipo continúa pendiente.
+- Como hipótesis editorial se propone evaluar **24–32 láminas**; el esquema actual de **28 interiores no está aprobado**. El número de páginas del primer prototipo continúa pendiente.
 - Producción: validar **una lámina inicial**, luego trabajar en **lotes de 2–3**.
 - Portada: presentar **2–3 enfoques visuales** antes de seleccionar uno.
 

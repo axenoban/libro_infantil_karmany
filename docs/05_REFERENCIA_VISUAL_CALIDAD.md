@@ -48,3 +48,9 @@ La calidad mínima de línea, proporción, expresividad, composición y limpieza
 > Ilustración original de libro infantil para colorear, formato vertical Carta, blanco y negro, line art profesional de fantasía infantil, formas expresivas y adorables, Karmany protagonista de diseño visual **aprobado y suministrado como referencia** [o *concepto editorial no canónico* si aún no existe], niño(s) solo si lo pide la ficha, contorno exterior limpio y firme, detalles interiores refinados y zonas amplias para colorear, composición dinámica y cuidada, **sin fondos**, figuras completas y distinguibles, alta calidad constante de ilustración, sin grises ni masas negras, cabecera legible solo cuando corresponda. No inventar poderes, especies o marcas canónicas.
 
 La ausencia de un Karmany aprobado exige **rotular propuesta no canónica**, no rellenar el campo con una criatura pretendidamente oficial.
+
+## Identificación de la referencia y limitación del archivo
+
+La referencia visual es la última imagen de la conversación del 15-11-2026 con un niño aventurero (gafas, pañuelo y puño alzado) y un Karmany de gran tamaño, ambos en blanco y negro; identificador de generación `66a8e5fe-c3c6-4bad-901b-767312ccfd7f`. **El PNG de referencia no está actualmente guardado en este repositorio**: no asumir que esta descripción equivale al archivo fuente.
+
+Archivo de prueba observado: **1102 × 1427 px**, aproximadamente **130 ppp** si se lleva a 8,5 × 11 pulgadas. Es una muestra de composición, **no un original de impresión a 300 ppp**. Para producir una lámina definitiva, usar un original nativo de resolución suficiente o vectorial, sin simular detalle mediante reescalado.

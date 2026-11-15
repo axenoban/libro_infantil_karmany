@@ -119,7 +119,7 @@ Las decisiones D01–D22 permanecen como **historial editorial**. Las correccion
 - **D23 (actualiza D20 y D13 para producción actual):** explorar escenas **sin lluvia**, posteriormente **sin fondos por el momento**. La lluvia y los charcos fueron ideas de prueba superadas, no requisitos vigentes para nuevas páginas.
 - **D24 (ajuste de D03 y D14):** **dar más protagonismo a los Karmanys**, con niños como acompañantes cuando estén presentes; separar las partes del cuerpo para facilitar el coloreado.
 - **D25 (referencia de calidad):** la **última ilustración mostrada** (niño aventurero y Karmany grande y adorable) gustó al creador; se adopta como **mínimo de calidad gráfica** para las futuras pruebas. No queda aprobado ningún personaje o diseño como canon.
-- **D26 (alcance):** proponer un libro más extenso con **24–32 láminas**, sin decidir todavía la extensión definitiva.
+- **P26 (propuesta técnica, NO decisión del creador):** evaluar un rango de **24–32 láminas** como hipótesis de alcance. La extensión continúa pendiente conforme a D09 y D10.
 - **Propuesta abierta (NO decisión del creador):** **28 láminas interiores** en tres niveles, 22 páginas para colorear y 6 con actividades más colorear.
 
 Documentos operativos:
