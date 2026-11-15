@@ -21,3 +21,7 @@ Ante solicitudes de estructura de libro, títulos, páginas, número de láminas
 
 ## Salida
 Tabla página por página, registro de estados pendientes, criterios de revisión y cambios propuestos, sin fusionar en estable hasta aprobación.
+
+## Actualización D28–D30 (vigente)
+
+La estructura editorial de 28 láminas está **APROBADA**. El elenco serán 16 diseños **ORIGINALES** exclusivos del libro, todavía por definir. Consultar `editorial/elenco_original_16.json`. No usar la antigua preselección del catálogo ni hacer casting de P01–P03 sin comparación aprobada. P04 continúa pausada.
