@@ -1,6 +1,6 @@
 {
-  "version": "0.5-propuesta",
-  "status": "pendiente_aprobacion_editorial",
+  "version": "0.6-estructura-aprobada",
+  "status": "estructura_base_aprobada",
   "pages": [
     {
       "id": "P01",
@@ -366,5 +366,11 @@
       "art_status": "pendiente",
       "canonical_status": "pendiente_validacion"
     }
-  ]
+  ],
+  "approval": {
+    "date": "2026-11-15",
+    "scope": "indice_28_laminas_8_iniciales_10_intermedias_10_avanzadas_6_actividades",
+    "art_and_canon": "pendientes_aprobacion_individual",
+    "workflow": "una_pagina_aprobada_y_guardada_antes_de_generar_la_siguiente"
+  }
 }

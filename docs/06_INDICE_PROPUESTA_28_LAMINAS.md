@@ -1,10 +1,10 @@
-# Propuesta de índice — 28 láminas interiores (v0.5)
+# Índice editorial base aprobado — 28 láminas interiores (v0.6)
 
-> **PROPUESTA EDITORIAL, NO ÍNDICE APROBADO.** El creador no ha fijado todavía la extensión. **24–32 láminas son alternativas de planificación**, y este esquema propone **28** como una de ellas, revisable sin alterar el canon. Todos los títulos, escenas e instrucciones se revisarán antes de ilustrar. La elección de Karmanys y niños es **pendiente**. Fecha: 2026-11-15.
+> **ESTRUCTURA BASE APROBADA POR EL CREADOR el 2026-11-15.** Se aprueban **28 láminas interiores** y su progresión de tres niveles como plan de producción. Los títulos, escenas, instrucciones y contenidos específicos siguen siendo fichas provisionales hasta que cada ilustración se valide. Los personajes y sus apariencias siguen pendientes de aprobación canónica.
 
 ## Criterios de organización
 
-- **28 láminas interiores:** **22** centradas en colorear y **6** combinadas con actividad simple (todas permiten colorear).
+- **28 láminas interiores aprobadas como estructura:** **22** centradas en colorear y **6** combinadas con actividad simple (todas permiten colorear).
 - **Tres niveles progresivos:** 8 iniciales, 10 intermedias, 10 avanzadas.
 - En todas las páginas, **Karmanys prioritarios**, niños de apoyo cuando corresponda; **sin fondos por ahora**, salvo motivos muy discretos. Nunca saturar la composición.
 - **Calidad artística mínima**: la referencia de la última ilustración elegida en conversación — niño explorador y Karmany adorable grandes, contornos expresivos de alta calidad — independientemente del nivel de dificultad. **No** copiar su anatomía como canon.
@@ -54,7 +54,7 @@
 | 27 | **Encuentra el camino** | Actividad + colorear | Laberinto simple y amplio con Karmanys aprobados en extremos; dificultad controlada. | Sigue el camino y colorea. |
 | 28 | **¡La gran reunión!** | Colorear | Final coral: dos niños y cuatro Karmanys, figuras delimitadas y fondo casi inexistente. | Colorea la gran reunión. |
 
-## Adaptación de extensión
+## Alternativas de extensión históricas (no vigentes sin nueva aprobación)
 
 - **Versión corta de 24:** retirar por ejemplo P02, P14, P20 y P23 (sin tocar actividades), y renumerar. Propuesta de edición, **no autorización para suprimir**.
 - **Versión amplia de 32:** agregar cuatro páginas con variantes aún por diseñar y aprobar: una inicial, una intermedia y dos avanzadas; no se inventa elenco ni temática canónica para llenar huecos.
@@ -66,7 +66,11 @@ Registrar: ID estable, bloque, título, modalidad, instrucción breve, Karmany(s
 
 ## Puertas de aprobación
 
-1. **Aprobar o corregir este índice** y decidir la extensión final (puede ser 24, 28, 32 u otra cantidad).
+1. **Estructura aprobada:** 28 láminas interiores; cualquier modificación de extensión requiere nueva decisión del creador.
 2. Confirmar elenco y apariencia de una lámina modelo; la última muestra solo valida dirección de **calidad gráfica**.
 3. Maquetar portada e interiores de prueba y hacer una prueba de coloreado / impresión.
 4. Producir láminas en lotes de 2–3 tras validación individual, sin colocar páginas no aprobadas en el PDF final.
+
+## Registro de aprobación — D27
+
+**Fecha:** 2026-11-15. **Alcance aprobado:** 28 láminas, secuencia y división 8/10/10 con seis actividades. **Pendientes:** selección canónica de Karmanys y niños, títulos/textos finales, ficha y aprobación visual individual. La lámina P01 se produce primero, se revisa y, **una vez aprobada y guardada en GitHub**, se comienza P02. El ejemplo LAM-001 anterior se conserva solo como referencia artística.

@@ -2,7 +2,7 @@
 
 Proyecto editorial independiente para producir un **libro digital en PDF** con dibujos infantiles para colorear, personajes humanos infantiles y Karmanys adaptados a una estética adorable de fantasía.
 
-**Estado:** bases editoriales v0.5 en revisión; **calidad visual de la última muestra seleccionada como referencia mínima**, canon visual y páginas finales pendientes. No hay láminas publicables aprobadas todavía.
+**Estado:** estructura editorial base de **28 láminas aprobada** por el creador (2026-11-15). La calidad visual de REF-ART-01 es la referencia mínima; diseños canónicos, láminas individuales y PDF final siguen pendientes de aprobación. No hay láminas publicables aprobadas todavía.
 
 ## Documentación de referencia
 
@@ -12,7 +12,7 @@ Proyecto editorial independiente para producir un **libro digital en PDF** con d
 - [Protocolo de fuentes y canon](docs/03_TRAZABILIDAD_CANON.md): origen y aprobación de personajes/Karmanys.
 - [Ficha de ilustración](docs/04_FICHA_LAMINA.md): plantilla obligatoria por arte.
 - [Referencia visual mínima de calidad](docs/05_REFERENCIA_VISUAL_CALIDAD.md): acabado profesional, sin fondo, Karmany protagonista.
-- [Propuesta de índice de 28 láminas](docs/06_INDICE_PROPUESTA_28_LAMINAS.md): títulos, objetivos, actividades y niveles (no aprobado).
+- [Índice base aprobado de 28 láminas](docs/06_INDICE_PROPUESTA_28_LAMINAS.md): títulos, objetivos, actividades y niveles como base editorial aprobada; textos específicos y elenco aún revisables.
 - [Plan de páginas estructurado](editorial/plan_paginas.json): datos individuales en JSON para continuidad editorial.
 - [Habilidades locales del proyecto](.agents/skills/): planificación, ilustración y control de calidad; son archivos de instrucciones y no implican instalación global en ChatGPT.
 - [Organización de recursos](assets/README.md): archivos y estados de aprobación.
@@ -27,7 +27,7 @@ Proyecto editorial independiente para producir un **libro digital en PDF** con d
 - Cada página llevará **título breve e instrucción corta**.
 - Lienzo de trabajo **Carta vertical, 8,5 × 11 pulgadas (21,59 × 27,94 cm)**; el formato final para imprenta sigue abierto.
 - Entrega **PDF digital**, concebida para permitir posible impresión futura.
-- Como hipótesis editorial se propone evaluar **24–32 láminas**; el esquema actual de **28 interiores no está aprobado**. El número de páginas del primer prototipo continúa pendiente.
+- **28 láminas interiores aprobadas como estructura base**; portada, créditos y demás páginas editoriales se definirán aparte. El número de páginas del prototipo continúa pendiente. El número de páginas del primer prototipo continúa pendiente.
 - Producción: validar **una lámina inicial**, luego trabajar en **lotes de 2–3**.
 - Portada: presentar **2–3 enfoques visuales** antes de seleccionar uno.
 
@@ -44,3 +44,9 @@ Los documentos y referencias de otros proyectos Karmany no se convierten automá
 Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin revisión explícita del creador.
 
 > Actualizado: 2026-11-15. Documento maestro: v0.5.
+
+## Inicio de la producción secuencial
+
+**D27 — 2026-11-15:** aprobado el índice base de **28 láminas** (8 iniciales, 10 intermedias y 10 avanzadas; 6 incluyen actividades). **No** implica que estén aprobadas las ilustraciones, criaturas específicas, composiciones finales o textos exactos.
+
+**Procedimiento obligatorio:** generar **P01**, presentar para revisión; solo con aprobación explícita guardar archivo y ficha como aprobados en `dev/karmany-core`; después generar P02. No preparar un lote completo sin aprobar las páginas anteriores.

@@ -130,3 +130,21 @@ Documentos operativos:
 **Aclaración:** La muestra apreciada define **calidad y lenguaje visual**, no el elenco, el nombre, la especie ni la identidad anatómica del Karmany. La revisión de canon sigue pendiente.
 
 **Bloqueo editorial actual:** aprobación del índice y selección de primeras láminas a ilustrar. Hasta entonces, no registrar 28 como número aprobado ni publicar fichas de arte definitivo.
+
+## 11. D27 — Aprobación de la estructura editorial base
+
+**2026-11-15 — APROBADO por el creador:** el índice de **28 láminas interiores** descrito en `docs/06_INDICE_PROPUESTA_28_LAMINAS.md` pasa de propuesta a **estructura base editorial aprobada**. Distribución: **8 iniciales, 10 intermedias, 10 avanzadas**, de las cuales **22 son páginas exclusivamente para colorear y 6 combinan coloreado con actividades**.
+
+Esta decisión **resuelve D09 para las láminas interiores del libro** y sustituye la propuesta de alcance P26. **D10 (número de páginas del prototipo inicial)**, portada, créditos, contraportada, personajes concretos y final de imprenta siguen pendientes; no son parte de la aprobación.
+
+**Aprobación de estructura ≠ aprobación de arte/canon:** títulos, textos finales, criaturas, apariencias, accesorios y composición particular de cada lámina requieren revisión. Solo se integra en PDF final una lámina con su propia aprobación.
+
+### Flujo de aprobación de producción (secuencial)
+
+1. Producir y revisar **P01**, sin guardar como definitiva ni integrar su ilustración antes de aprobación explícita.
+2. Si se aprueba P01: incorporar **PNG maestro/revisión + ficha** al repositorio con procedencia, decisión y QA; comprobar archivos en GitHub.
+3. Pasar a **P02** solo después de comprobar guardado de P01 aprobada.
+4. Repetir hasta P28; cambios significativos exigen nueva versión y revisión.
+5. Mantener `main` reservado a publicaciones; `dev/karmany-core` se actualiza con contenido validado.
+
+El primer modelo gráfico será un **Karmany solitario**, grande, alegre y sin fondo, a calidad REF-ART-01; su diseño concreto será una propuesta editorial no canónica hasta aprobación de personaje.
