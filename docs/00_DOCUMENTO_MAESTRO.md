@@ -148,3 +148,11 @@ Esta decisión **resuelve D09 para las láminas interiores del libro** y sustitu
 5. Mantener `main` reservado a publicaciones; `dev/karmany-core` se actualiza con contenido validado.
 
 El primer modelo gráfico será un **Karmany solitario**, grande, alegre y sin fondo, a calidad REF-ART-01; su diseño concreto será una propuesta editorial no canónica hasta aprobación de personaje.
+
+## 12. D28–D30 — Elenco exclusivo aprobado
+
+- **D28:** se aprueba el origen **ORIGINAL y exclusivo del libro infantil** para todas las criaturas; el catálogo v0.74 queda fuera del casting vigente.
+- **D29:** se aprueba la cantidad de **16 Karmanys diferentes**. Los IDs `LBK-01...LBK-16` son técnicos, no nombres de personajes.
+- **D30:** la correspondencia de las imágenes visualmente aprobadas **P01–P03** con esos Karmanys se decidirá **tras comparar hojas de modelos**; no se modifican ni se renombran de forma automática.
+
+Los 16 modelos concretos y sus nombres **no están aprobados** todavía. La primera hoja de prueba será LBK-01 y se someterá a revisión individual. P04 permanece **bloqueada**. Referencias activas: `docs/09_BIBLIA_KARMANYS_LIBRO.md` y `editorial/elenco_original_16.json`.

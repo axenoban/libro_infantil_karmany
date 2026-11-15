@@ -1,0 +1,484 @@
+{
+  "version": "v0.1",
+  "date": "2026-11-15",
+  "status": "verificado_catalogo_no_aprobado_para_libro",
+  "scope": "28 Karmanys disponibles en catálogo de origen, no todos seleccionados",
+  "creatures": [
+    {
+      "code": "K-01",
+      "name": "Terrakor",
+      "subtitle_verbatim": "Coloso de Raices",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Estable",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 4
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-02",
+      "name": "Aquaris",
+      "subtitle_verbatim": "Guardian de Bruma",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 5
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-03",
+      "name": "Pyrox",
+      "subtitle_verbatim": "Salamandra Ignea",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Salvaje",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 6
+      },
+      "explicit_animal_hint": "Salamandra (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-04",
+      "name": "Lumirra",
+      "subtitle_verbatim": "Cria de Luz",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 7
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-05",
+      "name": "Floravia",
+      "subtitle_verbatim": "Custodia Verde",
+      "catalog_level": "Nivel 1",
+      "catalog_game_type": "Recolector",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 8
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-06",
+      "name": "Brisu",
+      "subtitle_verbatim": "Pequeno Veloz",
+      "catalog_level": "Nivel 1",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 9
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-07",
+      "name": "Rocerno",
+      "subtitle_verbatim": "Cria de Piedra",
+      "catalog_level": "Nivel 1",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 10
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-08",
+      "name": "Mistolin",
+      "subtitle_verbatim": "Eco de Niebla",
+      "catalog_level": "Nivel 1",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 11
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-09",
+      "name": "Verdan",
+      "subtitle_verbatim": "Brote de Vael",
+      "catalog_level": "Nivel 1",
+      "catalog_game_type": "Estable",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 12
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-10",
+      "name": "Brumak",
+      "subtitle_verbatim": "Rastreador de Niebla",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 13
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-11",
+      "name": "Rauk Colmillo",
+      "subtitle_verbatim": "Depredador Salvaje",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Salvaje",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 14
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-12",
+      "name": "Nimbara",
+      "subtitle_verbatim": "Guardiana de Lluvia",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 15
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-13",
+      "name": "Ferrak",
+      "subtitle_verbatim": "Mandibula Runica",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Estable",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 16
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-14",
+      "name": "Selenix",
+      "subtitle_verbatim": "Zorro de Resonancia",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 17
+      },
+      "explicit_animal_hint": "Zorro (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-15",
+      "name": "Lignar",
+      "subtitle_verbatim": "Guardabosque Viejo",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Recolector",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 18
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-16",
+      "name": "Volcrin",
+      "subtitle_verbatim": "Ala de Ceniza",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Salvaje",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 19
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-17",
+      "name": "Orial",
+      "subtitle_verbatim": "Ciervo Luminico",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 20
+      },
+      "explicit_animal_hint": "Ciervo (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-18",
+      "name": "Torkal",
+      "subtitle_verbatim": "Tortuga de Ruinas",
+      "catalog_level": "Nivel 2",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 21
+      },
+      "explicit_animal_hint": "Tortuga (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-19",
+      "name": "Velkar",
+      "subtitle_verbatim": "Acechador de Ruinas",
+      "catalog_level": "Nivel 3",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 22
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-20",
+      "name": "Dravok",
+      "subtitle_verbatim": "Colmillo de Obsidiana",
+      "catalog_level": "Nivel 3",
+      "catalog_game_type": "Salvaje",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 23
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-21",
+      "name": "Celestia",
+      "subtitle_verbatim": "Guardiana del Santuario",
+      "catalog_level": "Nivel 3",
+      "catalog_game_type": "Defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 24
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-22",
+      "name": "Runakar",
+      "subtitle_verbatim": "Titan de Cristal",
+      "catalog_level": "Nivel 3",
+      "catalog_game_type": "Estable",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 25
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-23",
+      "name": "Eryndra",
+      "subtitle_verbatim": "Ave de Resonancia",
+      "catalog_level": "Nivel 3",
+      "catalog_game_type": "Tactico",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 26
+      },
+      "explicit_animal_hint": "Ave (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-24",
+      "name": "Aeterna Draconis",
+      "subtitle_verbatim": "Guardian de Memoria",
+      "catalog_level": "Legendaria",
+      "catalog_game_type": "Ancestral / Legendario",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 27
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-25",
+      "name": "Zephyr",
+      "subtitle_verbatim": "Cria de Viento Bruma",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Tactico / movilidad",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 28
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-26",
+      "name": "Umbrio",
+      "subtitle_verbatim": "Sombra del Primer Eco",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Control / defensivo",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 29
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-27",
+      "name": "Gemmir",
+      "subtitle_verbatim": "Topo de Cristal Tierno",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Recolector / forja",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 30
+      },
+      "explicit_animal_hint": "Topo (del subtítulo)",
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    },
+    {
+      "code": "K-28",
+      "name": "Vulkai",
+      "subtitle_verbatim": "Chispa Salvaje Menor",
+      "catalog_level": "Inicial / Nivel 1",
+      "catalog_game_type": "Salvaje controlado",
+      "source": {
+        "file": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx",
+        "sheet": "Karmany",
+        "row": 31
+      },
+      "explicit_animal_hint": null,
+      "canonical_visual_reference": null,
+      "approved_appearance_for_book": false,
+      "book_design_status": "por_definir",
+      "notes": "Nombres y subtítulos son datos del catálogo; no prescriben anatomía, color ni poderes para el libro."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "version": "0.2",
+  "date": "2026-11-15",
+  "status": "origen_y_cantidad_aprobados_modelos_pendientes",
+  "approved": {
+    "origin": "originales_exclusivos_del_libro",
+    "distinct_creatures": 16,
+    "existing_p01_p03": "comparar_modelos_antes_de_asignar"
+  },
+  "creatures": [
+    {
+      "id": "LBK-01",
+      "working_name": null,
+      "design_status": "primera_hoja_generada_en_revision",
+      "model_sheet": {
+        "generation_id": "d2aa5e64-5a41-4a52-b3bd-030054e6b4ac",
+        "filename": "a_clean_black_and_white_line_art_character_model.png",
+        "width": 1536,
+        "height": 1024,
+        "asset_in_github": false,
+        "status": "en_revision_visual"
+      },
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-02",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-03",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-04",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-05",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-06",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-07",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-08",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-09",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-10",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-11",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-12",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-13",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-14",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-15",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    },
+    {
+      "id": "LBK-16",
+      "working_name": null,
+      "design_status": "sin_concepto_aprobado",
+      "model_sheet": null,
+      "approved": false,
+      "pages_assigned": [],
+      "identity_reference": "exclusivo_libro",
+      "image_in_github": false
+    }
+  ],
+  "next_visual_model": "LBK-01"
+}

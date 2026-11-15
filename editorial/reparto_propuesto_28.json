@@ -1,0 +1,258 @@
+{
+  "version": "v0.1",
+  "status": "historico_superado_no_usar",
+  "note": "Las imágenes P01–P03 están aprobadas visualmente como adaptaciones, pero no tienen nombres canónicos asignados. Esta propuesta NO las vincula.",
+  "pages": [
+    {
+      "page": "P01",
+      "candidate_codes": [
+        "K-14"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": "La criatura ya aprobada es una propuesta visual independiente; su semejanza con un zorro NO demuestra que sea Selenix"
+    },
+    {
+      "page": "P02",
+      "candidate_codes": [
+        "K-03"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": "El diseño fantástico aprobado no pasa a ser Pyrox sin validación explícita"
+    },
+    {
+      "page": "P03",
+      "candidate_codes": [
+        "K-18"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": "La semejanza al caparazón NO establece que sea Torkal"
+    },
+    {
+      "page": "P04",
+      "candidate_codes": [
+        "K-04",
+        "K-06"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P05",
+      "candidate_codes": [
+        "K-27"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P06",
+      "candidate_codes": [
+        "K-02",
+        "K-08"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P07",
+      "candidate_codes": [
+        "K-17"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P08",
+      "candidate_codes": [
+        "K-25"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P09",
+      "candidate_codes": [
+        "K-14"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P10",
+      "candidate_codes": [
+        "K-07",
+        "K-28"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P11",
+      "candidate_codes": [
+        "K-03"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P12",
+      "candidate_codes": [
+        "K-04",
+        "K-27"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P13",
+      "candidate_codes": [
+        "K-12"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P14",
+      "candidate_codes": [
+        "K-05",
+        "K-08"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P15",
+      "candidate_codes": [
+        "K-06"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P16",
+      "candidate_codes": [
+        "K-02"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P17",
+      "candidate_codes": [
+        "K-25",
+        "K-17"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P18",
+      "candidate_codes": [
+        "K-04",
+        "K-05",
+        "K-28"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P19",
+      "candidate_codes": [
+        "K-12",
+        "K-14"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P20",
+      "candidate_codes": [
+        "K-07",
+        "K-18",
+        "K-27",
+        "K-06"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P21",
+      "candidate_codes": [
+        "K-08"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P22",
+      "candidate_codes": [
+        "K-23",
+        "K-03",
+        "K-14"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P23",
+      "candidate_codes": [
+        "K-23"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P24",
+      "candidate_codes": [
+        "K-02",
+        "K-25"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P25",
+      "candidate_codes": [
+        "K-12",
+        "K-17",
+        "K-18"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P26",
+      "candidate_codes": [
+        "K-05",
+        "K-06",
+        "K-27",
+        "K-28"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P27",
+      "candidate_codes": [
+        "K-18",
+        "K-08"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": null
+    },
+    {
+      "page": "P28",
+      "candidate_codes": [
+        "K-04",
+        "K-14",
+        "K-24",
+        "K-23"
+      ],
+      "assignment_status": "pendiente_aprobacion",
+      "note": "Aeterna Draconis es una opción para cierre, su uso editorial requiere decisión explícita"
+    }
+  ],
+  "superseded_on": "2026-11-15",
+  "superseded_by": "editorial/elenco_original_16.json",
+  "deprecation_note": "D28: originales exclusivos; no usar K-xx como elenco ni morfología del libro"
+}

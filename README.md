@@ -50,3 +50,24 @@ Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin re
 **D27 — 2026-11-15:** aprobado el índice base de **28 láminas** (8 iniciales, 10 intermedias y 10 avanzadas; 6 incluyen actividades). **No** implica que estén aprobadas las ilustraciones, criaturas específicas, composiciones finales o textos exactos.
 
 **Procedimiento obligatorio:** generar **P01**, presentar para revisión; solo con aprobación explícita guardar archivo y ficha como aprobados en `dev/karmany-core`; después generar P02. No preparar un lote completo sin aprobar las páginas anteriores.
+
+## Bestiario editorial infantil (fase pendiente de aprobación)
+
+- [Biblia visual de Karmanys](docs/09_BIBLIA_KARMANYS_LIBRO.md): metodología de identidad, anatomía, vistas y consistencia.
+- [Plantilla de modelo por criatura](docs/10_PLANTILLA_MODELO_KARMANY.md).
+- [Protocolo de continuidad visual](docs/11_PROTOCOLO_CONSISTENCIA_PERSONAJES.md).
+- [Catálogo de origen v0.74, 28 Karmanys](editorial/catalogo_karmany_v074.json): nombres y subtítulos verificados; **no constituye canon visual**.
+- [Elenco candidato de 16 Karmanys](editorial/elenco_candidato_16.json) y [reparto tentativo](editorial/reparto_propuesto_28.json): **NO APROBADOS**.
+
+**Pausa de producción:** P03 está aprobada visualmente. **No crear P04** hasta acordar el elenco y las fichas de modelo de los candidatos. P01–P03 tienen respaldo de imagen fuera de GitHub; su incorporación binaria y QA de impresión siguen pendientes.
+
+## D28–D30 — Bestiario original exclusivo (decisión aprobada)
+
+**16 Karmanys ORIGINALES exclusivos del libro**; no utilizar el antiguo catálogo K-xx como identidad ni anatomía. Las criaturas de P01, P02 y P03 se compararán posteriormente con las hojas de modelo. La producción de **P04 está pausada**.
+
+- [Biblia visual vigente v0.2](docs/09_BIBLIA_KARMANYS_LIBRO.md)
+- [Elenco original de 16](editorial/elenco_original_16.json)
+- [Ficha de modelo LBK-01](docs/13_LBK_01_FICHA_MODELO.md)
+- [Asignaciones pendientes de 28 láminas](editorial/asignaciones_originales_pendientes_28.json)
+
+**Histórico — NO UTILIZAR:** `editorial/elenco_candidato_16.json`, `editorial/morfologias_candidatas_16.json`, `editorial/reparto_propuesto_28.json` y `docs/12_PROPUESTAS_MORFOLOGICAS_16.md`. El catálogo v0.74 se conserva solo como antecedente.
