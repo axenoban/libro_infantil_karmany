@@ -1,6 +1,6 @@
 {
   "version": "v0.1",
-  "status": "reparto_propuesto_no_aprobado",
+  "status": "historico_superado_no_usar",
   "note": "Las imágenes P01–P03 están aprobadas visualmente como adaptaciones, pero no tienen nombres canónicos asignados. Esta propuesta NO las vincula.",
   "pages": [
     {
@@ -251,5 +251,8 @@
       "assignment_status": "pendiente_aprobacion",
       "note": "Aeterna Draconis es una opción para cierre, su uso editorial requiere decisión explícita"
     }
-  ]
+  ],
+  "superseded_on": "2026-11-15",
+  "superseded_by": "editorial/elenco_original_16.json",
+  "deprecation_note": "D28: originales exclusivos; no usar K-xx como elenco ni morfología del libro"
 }

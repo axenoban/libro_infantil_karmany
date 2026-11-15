@@ -4,7 +4,7 @@
 
 1. Verifica estado **real** de GitHub: rama, HEAD y archivos antes de comenzar.
 2. Lee `docs/00_DOCUMENTO_MAESTRO.md`, `docs/03_TRAZABILIDAD_CANON.md` y `docs/05_REFERENCIA_VISUAL_CALIDAD.md`.
-3. Las **28 láminas** son `propuesta_editorial`; no se han aprobado como extensión definitiva.
+3. Las **28 láminas interiores están aprobadas** como estructura (D27), pero los dibujos y casting de Karmanys requieren aprobaciones individuales.
 4. REF visual aceptada = **barra mínima de calidad del acabado**, no diseños canónicos del niño ni Karmany.
 5. El diseño actual evita **lluvia y fondos**, centra a los Karmanys y no baja calidad en páginas sencillas.
 6. Sin invenciones canónicas: documentar referencia de cada rasgo o marcar propuesta no canónica pendiente de aprobación.
@@ -34,3 +34,7 @@ No hacer force push, no fusionar sin revisión, no adoptar canon de otros proyec
 ## Fase de bestiario previa a P04
 
 Consulta `docs/09_BIBLIA_KARMANYS_LIBRO.md` antes de seleccionar, describir o reutilizar cualquier Karmany. **16 es una preselección, no el reparto aprobado**. Sus formas oficiales no pueden deducirse de los títulos. Para personajes recurrentes crear y aprobar `docs/10_PLANTILLA_MODELO_KARMANY.md` por criatura. Las páginas P01–P03 aprobadas visualmente no tienen identidad de catálogo asignada. No generar P04 hasta cerrar la decisión del elenco.
+
+## Obligatorio para nuevo bestiario
+
+**D28–D30:** 16 Karmanys **originales exclusivos de este libro**, IDs `LBK-01..LBK-16`. No usar el catálogo K-xx como identidad ni sus morfologías provisionales. Consultar `docs/09_BIBLIA_KARMANYS_LIBRO.md` y `editorial/elenco_original_16.json` antes de generar. Modelos uno por uno; LBK-01 todavía es concepto por aprobar. P01–P03 mantienen las ilustraciones aprobadas con identidad pendiente de comparar. **No avanzar a P04.**

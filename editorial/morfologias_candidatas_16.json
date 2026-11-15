@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "status": "diseños_propuestos_no_aprobados",
+  "status": "historico_superado_no_usar",
   "scope": "morfología de candidatos para discusión, no canon oficial",
   "designs": [
     {
@@ -147,5 +147,8 @@
       "visual_reference": null,
       "approved": false
     }
-  ]
+  ],
+  "superseded_on": "2026-11-15",
+  "superseded_by": "editorial/elenco_original_16.json",
+  "deprecation_note": "D28: originales exclusivos; no usar K-xx como elenco ni morfología del libro"
 }

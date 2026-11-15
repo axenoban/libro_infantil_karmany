@@ -1,3 +1,5 @@
+> **HISTÓRICO SUPERADO POR D28–D30:** estos diseños se basaban en Karmanys del catálogo. El usuario decidió 16 originales exclusivos para el libro; no usar las propuestas inferiores como modelos. La fuente activa es [la biblia v0.2](09_BIBLIA_KARMANYS_LIBRO.md).
+
 # Propuestas de morfología — 16 candidatos del libro infantil
 
 **ESTADO: CONCEPTOS DE DISEÑO, NO CANON.** Estas morfologías **no proceden como hechos del catálogo**; son posibles adaptaciones exclusivas para el libro que el creador debe aprobar o modificar. Para animales mencionados literalmente en subtítulos (salamandra, zorro, ciervo, tortuga, ave, topo) se conserva esa inspiración; todas las proporciones, marcas y miembros siguen siendo decisiones nuevas.

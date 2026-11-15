@@ -60,3 +60,14 @@ Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin re
 - [Elenco candidato de 16 Karmanys](editorial/elenco_candidato_16.json) y [reparto tentativo](editorial/reparto_propuesto_28.json): **NO APROBADOS**.
 
 **Pausa de producción:** P03 está aprobada visualmente. **No crear P04** hasta acordar el elenco y las fichas de modelo de los candidatos. P01–P03 tienen respaldo de imagen fuera de GitHub; su incorporación binaria y QA de impresión siguen pendientes.
+
+## D28–D30 — Bestiario original exclusivo (decisión aprobada)
+
+**16 Karmanys ORIGINALES exclusivos del libro**; no utilizar el antiguo catálogo K-xx como identidad ni anatomía. Las criaturas de P01, P02 y P03 se compararán posteriormente con las hojas de modelo. La producción de **P04 está pausada**.
+
+- [Biblia visual vigente v0.2](docs/09_BIBLIA_KARMANYS_LIBRO.md)
+- [Elenco original de 16](editorial/elenco_original_16.json)
+- [Ficha de modelo LBK-01](docs/13_LBK_01_FICHA_MODELO.md)
+- [Asignaciones pendientes de 28 láminas](editorial/asignaciones_originales_pendientes_28.json)
+
+**Histórico — NO UTILIZAR:** `editorial/elenco_candidato_16.json`, `editorial/morfologias_candidatas_16.json`, `editorial/reparto_propuesto_28.json` y `docs/12_PROPUESTAS_MORFOLOGICAS_16.md`. El catálogo v0.74 se conserva solo como antecedente.

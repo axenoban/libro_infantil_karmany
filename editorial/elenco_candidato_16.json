@@ -1,6 +1,6 @@
 {
   "version": "v0.1",
-  "status": "propuesta_no_aprobada",
+  "status": "historico_superado_no_usar",
   "count": 16,
   "selection_criteria": "variedad potencial a partir de nombres/subtítulos; no se ha evaluado atractivo real en ausencia de imágenes oficiales",
   "chosen": [
@@ -162,5 +162,8 @@
       "name": "Umbrio",
       "status": "reserva_no_descartado"
     }
-  ]
+  ],
+  "superseded_on": "2026-11-15",
+  "superseded_by": "editorial/elenco_original_16.json",
+  "deprecation_note": "D28: originales exclusivos; no usar K-xx como elenco ni morfología del libro"
 }
