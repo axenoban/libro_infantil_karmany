@@ -1,0 +1,166 @@
+{
+  "version": "v0.1",
+  "status": "propuesta_no_aprobada",
+  "count": 16,
+  "selection_criteria": "variedad potencial a partir de nombres/subtítulos; no se ha evaluado atractivo real en ausencia de imágenes oficiales",
+  "chosen": [
+    {
+      "code": "K-02",
+      "name": "Aquaris",
+      "purpose": "Interacciones sencillas y variedad de silueta por investigar; no asumir forma acuática",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-03",
+      "name": "Pyrox",
+      "purpose": "Subtítulo de salamandra; posible diseño infantil reptiliano, sujeto a validación",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-04",
+      "name": "Lumirra",
+      "purpose": "Título de cría; candidato a criatura pequeña de introducción",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-05",
+      "name": "Floravia",
+      "purpose": "Motivo verde en subtítulo; posible contraste gráfico sin fijar anatomía",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-06",
+      "name": "Brisu",
+      "purpose": "Subtítulo pequeño/veloz; candidato a poses dinámicas",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-07",
+      "name": "Rocerno",
+      "purpose": "Subtítulo cría/piedra; contraste de formas, sin fijar textura real",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-08",
+      "name": "Mistolin",
+      "purpose": "Motivo niebla en subtítulo; expresión suave, cuerpo por definir",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-12",
+      "name": "Nimbara",
+      "purpose": "Motivo lluvia en nombre; no implica incluir fondo lluvioso",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-14",
+      "name": "Selenix",
+      "purpose": "Zorro explícito en subtítulo; candidato a silueta con cola y orejas, sin marcas oficiales",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-17",
+      "name": "Orial",
+      "purpose": "Ciervo explícito; candidato a variedad cervina, cornamenta aún no confirmada",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-18",
+      "name": "Torkal",
+      "purpose": "Tortuga explícita; candidato a silueta con caparazón, patrón no oficial",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-23",
+      "name": "Eryndra",
+      "purpose": "Ave explícita; opción de silueta alada para niveles avanzados, plumaje por decidir",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-24",
+      "name": "Aeterna Draconis",
+      "purpose": "Legendaria en catálogo; reservar para final si el creador aprueba su presencia",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-25",
+      "name": "Zephyr",
+      "purpose": "Cría viento/bruma; motivo sugerente, no determina alas",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-27",
+      "name": "Gemmir",
+      "purpose": "Topo explícito en subtítulo; candidato con manos/patas grandes, sujeto a diseño",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    },
+    {
+      "code": "K-28",
+      "name": "Vulkai",
+      "purpose": "Chispa menor; candidato a expresividad dinámica, ninguna forma oficial asumida",
+      "appearance_status": "pendiente_hoja_de_modelo_y_aprobacion"
+    }
+  ],
+  "reserves": [
+    {
+      "code": "K-01",
+      "name": "Terrakor",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-09",
+      "name": "Verdan",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-10",
+      "name": "Brumak",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-11",
+      "name": "Rauk Colmillo",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-13",
+      "name": "Ferrak",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-15",
+      "name": "Lignar",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-16",
+      "name": "Volcrin",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-19",
+      "name": "Velkar",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-20",
+      "name": "Dravok",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-21",
+      "name": "Celestia",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-22",
+      "name": "Runakar",
+      "status": "reserva_no_descartado"
+    },
+    {
+      "code": "K-26",
+      "name": "Umbrio",
+      "status": "reserva_no_descartado"
+    }
+  ]
+}
