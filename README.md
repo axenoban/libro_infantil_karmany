@@ -50,3 +50,13 @@ Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin re
 **D27 — 2026-11-15:** aprobado el índice base de **28 láminas** (8 iniciales, 10 intermedias y 10 avanzadas; 6 incluyen actividades). **No** implica que estén aprobadas las ilustraciones, criaturas específicas, composiciones finales o textos exactos.
 
 **Procedimiento obligatorio:** generar **P01**, presentar para revisión; solo con aprobación explícita guardar archivo y ficha como aprobados en `dev/karmany-core`; después generar P02. No preparar un lote completo sin aprobar las páginas anteriores.
+
+## Bestiario editorial infantil (fase pendiente de aprobación)
+
+- [Biblia visual de Karmanys](docs/09_BIBLIA_KARMANYS_LIBRO.md): metodología de identidad, anatomía, vistas y consistencia.
+- [Plantilla de modelo por criatura](docs/10_PLANTILLA_MODELO_KARMANY.md).
+- [Protocolo de continuidad visual](docs/11_PROTOCOLO_CONSISTENCIA_PERSONAJES.md).
+- [Catálogo de origen v0.74, 28 Karmanys](editorial/catalogo_karmany_v074.json): nombres y subtítulos verificados; **no constituye canon visual**.
+- [Elenco candidato de 16 Karmanys](editorial/elenco_candidato_16.json) y [reparto tentativo](editorial/reparto_propuesto_28.json): **NO APROBADOS**.
+
+**Pausa de producción:** P03 está aprobada visualmente. **No crear P04** hasta acordar el elenco y las fichas de modelo de los candidatos. P01–P03 tienen respaldo de imagen fuera de GitHub; su incorporación binaria y QA de impresión siguen pendientes.

@@ -30,3 +30,7 @@ No hacer force push, no fusionar sin revisión, no adoptar canon de otros proyec
 - [Índice propuesto de 28 láminas](docs/06_INDICE_PROPUESTA_28_LAMINAS.md).
 - [Plan estructurado en JSON](editorial/plan_paginas.json).
 - [Plantilla de ficha por lámina](docs/04_FICHA_LAMINA.md).
+
+## Fase de bestiario previa a P04
+
+Consulta `docs/09_BIBLIA_KARMANYS_LIBRO.md` antes de seleccionar, describir o reutilizar cualquier Karmany. **16 es una preselección, no el reparto aprobado**. Sus formas oficiales no pueden deducirse de los títulos. Para personajes recurrentes crear y aprobar `docs/10_PLANTILLA_MODELO_KARMANY.md` por criatura. Las páginas P01–P03 aprobadas visualmente no tienen identidad de catálogo asignada. No generar P04 hasta cerrar la decisión del elenco.

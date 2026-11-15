@@ -12,8 +12,10 @@
       "composition": "Karmany único",
       "karmany_approved": null,
       "children_approved": null,
-      "art_status": "pendiente",
-      "canonical_status": "pendiente_validacion"
+      "art_status": "aprobado_visual_respaldo_externo_pendiente_git",
+      "canonical_status": "identidad_no_asignada",
+      "image_in_github": false,
+      "editorial_approval_date": "2026-11-15"
     },
     {
       "id": "P02",
@@ -25,8 +27,10 @@
       "composition": "Karmany único",
       "karmany_approved": null,
       "children_approved": null,
-      "art_status": "pendiente",
-      "canonical_status": "pendiente_validacion"
+      "art_status": "aprobado_visual_respaldo_externo_pendiente_git",
+      "canonical_status": "identidad_no_asignada",
+      "image_in_github": false,
+      "editorial_approval_date": "2026-11-15"
     },
     {
       "id": "P03",
@@ -38,8 +42,10 @@
       "composition": "Mixta simple",
       "karmany_approved": null,
       "children_approved": null,
-      "art_status": "pendiente",
-      "canonical_status": "pendiente_validacion"
+      "art_status": "aprobado_visual_respaldo_externo_pendiente_git",
+      "canonical_status": "identidad_no_asignada",
+      "image_in_github": false,
+      "editorial_approval_date": "2026-11-15"
     },
     {
       "id": "P04",
@@ -372,5 +378,10 @@
     "scope": "indice_28_laminas_8_iniciales_10_intermedias_10_avanzadas_6_actividades",
     "art_and_canon": "pendientes_aprobacion_individual",
     "workflow": "una_pagina_aprobada_y_guardada_antes_de_generar_la_siguiente"
+  },
+  "production_pause": {
+    "reason": "pendiente_aprobacion_elenco_y_fichas_modelo",
+    "next_art_to_generate": "P04",
+    "status": "pausado"
   }
 }
