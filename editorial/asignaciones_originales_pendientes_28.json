@@ -1,0 +1,147 @@
+{
+  "version": "0.2",
+  "status": "sin_asignaciones_aprobadas",
+  "note": "P01–P03 tienen aprobación visual pero NO identidad LBK asignada. Ningún LBK se asigna automáticamente a páginas.",
+  "pages": [
+    {
+      "page": "P01",
+      "karmany_ids_approved": [],
+      "status": "identidad_pendiente_comparar_modelos"
+    },
+    {
+      "page": "P02",
+      "karmany_ids_approved": [],
+      "status": "identidad_pendiente_comparar_modelos"
+    },
+    {
+      "page": "P03",
+      "karmany_ids_approved": [],
+      "status": "identidad_pendiente_comparar_modelos"
+    },
+    {
+      "page": "P04",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P05",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P06",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P07",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P08",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P09",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P10",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P11",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P12",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P13",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P14",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P15",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P16",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P17",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P18",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P19",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P20",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P21",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P22",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P23",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P24",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P25",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P26",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P27",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    },
+    {
+      "page": "P28",
+      "karmany_ids_approved": [],
+      "status": "esperando_fichas_aprobadas"
+    }
+  ]
+}
