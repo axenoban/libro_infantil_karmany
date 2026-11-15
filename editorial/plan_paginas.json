@@ -383,5 +383,15 @@
     "reason": "pendiente_aprobacion_elenco_y_fichas_modelo",
     "next_art_to_generate": "P04",
     "status": "pausado"
+  },
+  "bestiary": {
+    "version": "0.2",
+    "origin": "originales_exclusivos_del_libro",
+    "approved_count": 16,
+    "roster": "editorial/elenco_original_16.json",
+    "page_allocation": "editorial/asignaciones_originales_pendientes_28.json",
+    "p01_p03_identity": "decision_diferida_hasta_comparar_modelos",
+    "next_visual_model": "LBK-01",
+    "p04_paused": true
   }
 }
