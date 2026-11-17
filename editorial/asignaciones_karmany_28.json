@@ -1,0 +1,208 @@
+{
+  "version": "1.0",
+  "date": "2026-11-17",
+  "status": "sin_asignaciones_autorizadas",
+  "page_reference": "editorial/plan_paginas.json",
+  "cast_reference": "editorial/elenco_forja_infantil_16.json",
+  "approved_cast_count": 16,
+  "approved_individual_design_count": 4,
+  "rule": "Este registro solo crea plazas vacías; nunca asigna ni modifica P01-P03, ni reactiva P04.",
+  "pages": [
+    {
+      "page_id": "P01",
+      "title_reference": "¡Hola, Karmany!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P02",
+      "title_reference": "¡Qué alegría!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P03",
+      "title_reference": "¡Mira quién llegó!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P04",
+      "title_reference": "Amigos de colores",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P05",
+      "title_reference": "Una gran sonrisa",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P06",
+      "title_reference": "¡Nos encontramos!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P07",
+      "title_reference": "¡Vamos juntos!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P08",
+      "title_reference": "Cuenta las estrellas",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P09",
+      "title_reference": "¡Comienza la aventura!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P10",
+      "title_reference": "¡Qué energía!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P11",
+      "title_reference": "¡Listos para jugar!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P12",
+      "title_reference": "Une a los iguales",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P13",
+      "title_reference": "¡Todos sonríen!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P14",
+      "title_reference": "¡Qué sorpresa!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P15",
+      "title_reference": "¡En movimiento!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P16",
+      "title_reference": "Sigue el trazo",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P17",
+      "title_reference": "¡Un encuentro especial!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P18",
+      "title_reference": "¡Pequeña celebración!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P19",
+      "title_reference": "¡Una gran aventura!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P20",
+      "title_reference": "¡Todos a posar!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P21",
+      "title_reference": "Encuentra las diferencias",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P22",
+      "title_reference": "¡Juntos en acción!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P23",
+      "title_reference": "¡Una mirada fantástica!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P24",
+      "title_reference": "Busca las figuras",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P25",
+      "title_reference": "¡Qué gran encuentro!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P26",
+      "title_reference": "¡Fiesta Karmany!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P27",
+      "title_reference": "Encuentra el camino",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    },
+    {
+      "page_id": "P28",
+      "title_reference": "¡La gran reunión!",
+      "karmany_codes": [],
+      "assignment_status": "sin_asignar",
+      "notes": null
+    }
+  ]
+}

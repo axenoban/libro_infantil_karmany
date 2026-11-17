@@ -61,3 +61,7 @@ Los originales existen como archivos PNG de 1448 × 1086 px guardados en la conv
 - P04 continúa pausada hasta asignar diseños necesarios.
 - Continuar por **K-05 Floravia**, no por Rocerno; **Rocerno es K-07** en el catálogo v0.74.
 - Cada propuesta nueva conserva el formato probado, pasa por revisión individual, y no se integra a `dev/karmany-core` sin completar entrega y verificación.
+
+## Registro gráfico completo (adenda 2026-11-17)
+
+Se documentaron las **16 descripciones gráficas** en [Guía gráfica integral](15_GUIA_GRAFICA_ELENCO_16.md) y en campos `graphic` de [elenco estructurado](../editorial/elenco_forja_infantil_16.json). Las descripciones K-05..K-27 se basan únicamente en la lámina de grupo y **no sustituyen sus hojas individuales pendientes**. La [matriz P01–P28](../editorial/asignaciones_karmany_28.json) está vacía deliberadamente. Los PNG y las asignaciones definitivas siguen pendientes.

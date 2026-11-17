@@ -16,6 +16,8 @@ Proyecto editorial independiente para producir un **libro digital en PDF** con d
 - [Plan de páginas estructurado](editorial/plan_paginas.json): datos individuales en JSON para continuidad editorial.
 - [Habilidades locales del proyecto](.agents/skills/): planificación, ilustración y control de calidad; son archivos de instrucciones y no implican instalación global en ChatGPT.
 - [Organización de recursos](assets/README.md): archivos y estados de aprobación.
+- [Guía gráfica del elenco completo](docs/15_GUIA_GRAFICA_ELENCO_16.md): descripciones de silueta, anatomía observada, rasgos, paleta y line art para las 16 identidades; 4 fichas individuales aprobadas y 12 pendientes.
+- [Matriz vacía de asignación Karmany–página](editorial/asignaciones_karmany_28.json): P01–P28 sin reparto todavía.
 
 ## Acuerdos principales
 
