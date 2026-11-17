@@ -1,0 +1,537 @@
+{
+  "version": "1.1",
+  "date": "2026-11-17",
+  "scope": "libro_infantil",
+  "status": "elenco_16_y_descripciones_graficas_registradas_cuatro_modelos_individuales_aprobados",
+  "source": "Karmany_Monsta_Catalogo_Editable_v0_74(1).xlsx / Karmany",
+  "supersedes": "feature/bestiario-infantil-v0-1 / elenco_original_16.json / D28 (origen LBK)",
+  "other_project_canon_unchanged": true,
+  "model_sheet_format": "K-01..K-04 sheet: hero, 2 expressions, 3 details, front/side/back",
+  "creatures": [
+    {
+      "code": "K-01",
+      "name": "Terrakor",
+      "subtitle": "Coloso de Raíces",
+      "identity_selected": true,
+      "visual_approved": true,
+      "model_sheet": {
+        "filename": "K-01_Terrakor_v01.png",
+        "target_path": "assets/modelos_karmany/aprobados/K-01_Terrakor_v01.png",
+        "asset_in_github": false,
+        "sha256": "01dbd9fc0569cbf95de64d18abcb75243fb278b505a26dcf7596da64aa97fad5",
+        "size_bytes": 2139486,
+        "width": 1448,
+        "height": 1086,
+        "gen_id": "0f9490d5-bae5-48ce-9073-8c83b9001321",
+        "format": "PNG RGB",
+        "source_filename": "hoja_de_diseño_de_terrakor.png",
+        "approval": "creador en conversación, aprobación explícita"
+      },
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "ficha_individual_aprobada",
+        "silhouette": "Cuadrúpedo bajo y robusto, con caparazón pétreo y dos cuernos de raíz ramificados que sobresalen de la cabeza.",
+        "morphology": "Cuatro patas gruesas de dedos redondeados; cabeza ancha de hocico corto, ojos grandes y sonrisa abierta. Lomo cubierto por placas geométricas.",
+        "distinctive_marks": "Dos cuernos-raíz con hojas; musgo en frente, mejillas y lomo; placa lateral grande con espiral; pequeñas hojas posteriores.",
+        "palette": "Marrón tierra y piedra beige; verdes hoja y musgo; crema en rostro y uñas.",
+        "expression_pose": "Alegre y sorprendido; postura estable y amistosa.",
+        "monochrome_coloring": "La silueta debe reconocerse por raíces y placas, no por los colores; mantener cada placa, hoja y pata con contornos distinguibles.",
+        "source": "hoja_de_modelo_individual_aprobada",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "subida_png_original_github"
+        ]
+      }
+    },
+    {
+      "code": "K-02",
+      "name": "Aquaris",
+      "subtitle": "Guardián de Bruma",
+      "identity_selected": true,
+      "visual_approved": true,
+      "model_sheet": {
+        "filename": "K-02_Aquaris_v01.png",
+        "target_path": "assets/modelos_karmany/aprobados/K-02_Aquaris_v01.png",
+        "asset_in_github": false,
+        "sha256": "c4c91fff38bdd825e386b6dd95e5f275a1e33dafa9bb8149a9cbdbc0f1049655",
+        "size_bytes": 2091644,
+        "width": 1448,
+        "height": 1086,
+        "gen_id": "7dc0838e-a177-4f0a-aaa6-463eb31435d6",
+        "format": "PNG RGB",
+        "source_filename": "k_02_aquaris_guardián_de_bruma.png",
+        "approval": "creador en conversación, aprobación explícita"
+      },
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "ficha_individual_aprobada",
+        "silhouette": "Cuadrúpedo acuático de cuello erguido, aletas alrededor de la cabeza y cola grande abierta en ondas.",
+        "morphology": "Cuatro patas cortas; cabeza redondeada con ojos grandes y bigotes finos; pecho peludo y cola curvada con varios lóbulos tipo aleta.",
+        "distinctive_marks": "Aletas laterales translúcidas de forma foliar; cola de bruma/agua, espirales crema en flancos y pequeños detalles circulares.",
+        "palette": "Azul cielo y celeste, blanco-crema en pecho y zonas de aletas; contornos azul oscuro en referencia a color.",
+        "expression_pose": "Sonrisa amplia y expresión de curiosidad; postura erguida sin agresividad.",
+        "monochrome_coloring": "No depender de burbujas flotantes para reconocerlo: aletas, bigotes, cola ondulada y marca espiral deben bastar.",
+        "source": "hoja_de_modelo_individual_aprobada",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "subida_png_original_github"
+        ]
+      }
+    },
+    {
+      "code": "K-03",
+      "name": "Pyrox",
+      "subtitle": "Salamandra Ígnea",
+      "identity_selected": true,
+      "visual_approved": true,
+      "model_sheet": {
+        "filename": "K-03_Pyrox_v01.png",
+        "target_path": "assets/modelos_karmany/aprobados/K-03_Pyrox_v01.png",
+        "asset_in_github": false,
+        "sha256": "fbe28894d8d5485daa403287f40a1e4bec5b92d61d610e8288583845da4043ba",
+        "size_bytes": 2039303,
+        "width": 1448,
+        "height": 1086,
+        "gen_id": "84f25251-cb13-41b6-9c36-bd6f327b7412",
+        "format": "PNG RGB",
+        "source_filename": "hoja_de_modelo_de_pyrox_salamandra_ígnea.png",
+        "approval": "creador en conversación, aprobación explícita"
+      },
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "ficha_individual_aprobada",
+        "silhouette": "Salamandra cuadrúpeda compacta con silueta de llamas en la cabeza, el lomo y el extremo de una cola muy curvada.",
+        "morphology": "Cuatro patas cortas; cabeza grande y hocico redondeado; vientre suave y cola larga rematada en llama.",
+        "distinctive_marks": "Melena de lenguas de fuego alrededor de la cara; remolinos y gotas en flancos; mechones ígneos sobre la espalda.",
+        "palette": "Naranja, rojo cálido y amarillo; crema en hocico, pecho, vientre y uñas.",
+        "expression_pose": "Entusiasta y curioso; boca abierta y ojos grandes, evitando gesto amenazante.",
+        "monochrome_coloring": "Diferenciar con líneas cerradas cabeza, cuerpo, cola y capas de llama; los fuegos decorativos sueltos son prescindibles.",
+        "source": "hoja_de_modelo_individual_aprobada",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "subida_png_original_github"
+        ]
+      }
+    },
+    {
+      "code": "K-04",
+      "name": "Lumirra",
+      "subtitle": "Cría de Luz",
+      "identity_selected": true,
+      "visual_approved": true,
+      "model_sheet": {
+        "filename": "K-04_Lumirra_v01.png",
+        "target_path": "assets/modelos_karmany/aprobados/K-04_Lumirra_v01.png",
+        "asset_in_github": false,
+        "sha256": "d03084f758b915e0d1875ad6fb3e5c2790a90d6387d45d4b04cc7947d92dd174",
+        "size_bytes": 2009921,
+        "width": 1448,
+        "height": 1086,
+        "gen_id": "0120b687-2d7d-422e-afa6-c41185d3d952",
+        "format": "PNG RGB",
+        "source_filename": "k_04_lumirra_cría_de_luz.png",
+        "approval": "creador en conversación, aprobación explícita"
+      },
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "ficha_individual_aprobada",
+        "silhouette": "Criatura pequeña semejante a un zorro, con dos orejas muy altas y una cola enorme, esponjosa y multilobulada.",
+        "morphology": "Cuatro patas pequeñas; ojos miel muy grandes; mechón frontal, gorguera abundante y cola envolvente.",
+        "distinctive_marks": "Figura luminosa sobre la frente; orejas con interior brillante, marcas pequeñas en las patas y espiral lateral; cola en capas.",
+        "palette": "Blanco crema, marfil y amarillo dorado; ojos marrón miel.",
+        "expression_pose": "Amable, alegre y sorprendido; postura ligera con cola elevada.",
+        "monochrome_coloring": "Respetar orejas, remolino del costado, gorguera y capas de la cola; no depender de destellos externos.",
+        "source": "hoja_de_modelo_individual_aprobada",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "subida_png_original_github"
+        ]
+      }
+    },
+    {
+      "code": "K-05",
+      "name": "Floravia",
+      "subtitle": "Custodia Verde",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Cuadrúpedo pequeño de aire cervatillo/conejo, con orejas amplias y hojas que amplían el perfil dorsal.",
+        "morphology": "Patas finas, hocico corto y ojos grandes; orejas verticales, espalda con hojas y flores, cola corta de volumen vegetal.",
+        "distinctive_marks": "Flores rosadas cerca de cabeza y costado; hojas en cuello, espalda y parte posterior; espiral sobre el flanco.",
+        "palette": "Crema y verde hoja, rosa suave en flores y orejas, pequeños acentos marrones.",
+        "expression_pose": "Tierno y sereno, en pose de paso lateral.",
+        "monochrome_coloring": "Conservar orejas, flores y grupos de hojas sin multiplicar pétalos microscópicos; separar flores de patas.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-06",
+      "name": "Brisu",
+      "subtitle": "Pequeño Veloz",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Cuadrúpedo esbelto en pleno salto, con orejas puntiagudas y cola muy larga que dibuja una curva de viento.",
+        "morphology": "Cuerpo alargado y liviano, patas estiradas en carrera, hocico fino y mechones de pelo orientados hacia atrás.",
+        "distinctive_marks": "Cola plumosa curva, copete hacia atrás, espiral clara en la cadera; remolinos de aire alrededor, secundarios.",
+        "palette": "Crema, azul claro y azul grisáceo; acentos blancos.",
+        "expression_pose": "Sonrisa vivaz y mirada hacia adelante; sensación de velocidad por la pose.",
+        "monochrome_coloring": "La postura de salto y la cola deben sugerir movimiento sin usar muchas líneas de viento; patas totalmente distinguibles.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-07",
+      "name": "Rocerno",
+      "subtitle": "Cría de Piedra",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Cría compacta semejante a un rinoceronte fantástico, con un cuerno frontal y piedras grandes sobre la espalda.",
+        "morphology": "Cuatro patas gruesas, cuerpo redondeado, hocico largo y bajo; bloques pétreos superpuestos como armadura dorsal.",
+        "distinctive_marks": "Un gran cuerno claro, placas de roca angulares, espiral en una placa lateral, dedos anchos.",
+        "palette": "Marrón piedra, arena, beige y crema.",
+        "expression_pose": "Sonrisa abierta y postura firme, sin apariencia intimidante.",
+        "monochrome_coloring": "Asegurar un único cuerno frontal claramente visible y placas pétreas separadas; silueta distinta de Terrakor y Torkal.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-08",
+      "name": "Mistolin",
+      "subtitle": "Eco de Niebla",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Criatura cuadrúpeda de tipo zorro/gato con orejas puntiagudas, cuello mullido y una cola enorme formada por nubes de niebla.",
+        "morphology": "Patas pequeñas, rostro triangular suave, pelaje de pecho voluminoso; cola levantada y ensanchada en remolinos.",
+        "distinctive_marks": "Rizos de neblina en pecho y cola, marcas espirales en costado, mechones sobre la cabeza.",
+        "palette": "Lavanda, malva muy claro y crema, con sombras violeta suave.",
+        "expression_pose": "Mirada tranquila, curiosidad y pose de perfil amistosa.",
+        "monochrome_coloring": "Mantener separadas las líneas de la cola nubosa y del pelaje; la niebla decorativa no debe confundirse con una extremidad.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-09",
+      "name": "Verdan",
+      "subtitle": "Brote de Vael",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Cuadrúpedo pequeño de cabeza redonda, con dos hojas grandes que nacen sobre la cabeza y cola terminada en brotes.",
+        "morphology": "Cuatro patas cortas, cuerpo compacto y hocico crema; hojas pequeñas en cuello, espalda y cola.",
+        "distinctive_marks": "Dos hojas cefálicas destacadas, tallo/cola con brotes, espiral verde en el costado.",
+        "palette": "Verde hoja y verde lima, crema cálido en rostro y vientre.",
+        "expression_pose": "Sonrisa abierta y mirada curiosa; pose quieta o caminando.",
+        "monochrome_coloring": "La doble hoja de la cabeza y la cola con brotes son prioritarias; no saturar la figura con follaje adicional.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-12",
+      "name": "Nimbara",
+      "subtitle": "Guardiana de Lluvia",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Pequeño cuadrúpedo parecido a un cordero/cervatillo con mechones de nube sobre la cabeza y la grupa.",
+        "morphology": "Patas finas, orejas laterales, cuello corto, cuerpo de tono claro y masas redondeadas de nube en copete y cola.",
+        "distinctive_marks": "Copete nuboso, cola-nube, espiral lateral, pequeñas gotas dibujadas alrededor como decoración opcional.",
+        "palette": "Azul suave, crema, blanco y celeste grisáceo.",
+        "expression_pose": "Expresión calmada y sonriente, perfil de paso corto.",
+        "monochrome_coloring": "Mostrar bordes redondeados de nube sin confundirlos con pelaje o miembros; gotas alrededor no indispensables.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-14",
+      "name": "Selenix",
+      "subtitle": "Zorro de Resonancia",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Zorro fantástico esbelto de orejas altas y varias colas plumosas superpuestas que se abren en abanico.",
+        "morphology": "Cuatro patas delgadas, rostro pequeño y puntiagudo, gorguera abundante; cabeza con pequeño símbolo curvo.",
+        "distinctive_marks": "Espiral en la frente, dibujos de resonancia en caderas y colas, varias capas de cola curvada.",
+        "palette": "Violeta/lila suave, crema y acentos amarillo pálido.",
+        "expression_pose": "Mirada ligeramente astuta, no amenazante; pose elegante de tres cuartos.",
+        "monochrome_coloring": "Separar cada cola por su contorno para no crear una masa indistinta; conservar símbolo frontal y orejas.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-17",
+      "name": "Orial",
+      "subtitle": "Ciervo Lumínico",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Ciervo luminoso de cuatro patas largas y cornamenta ramificada, fina y amplia.",
+        "morphology": "Cuerpo ligero, cuello alto, hocico delicado, cola pequeña; cornamenta de ramas lisas con puntas suaves.",
+        "distinctive_marks": "Astas resplandecientes, espiral clara en flanco, pequeñas líneas de destello alrededor.",
+        "palette": "Marfil, beige claro y dorado suave.",
+        "expression_pose": "Sereno y noble, de perfil con cabeza alzada.",
+        "monochrome_coloring": "Las astas deben ser claras y coloreables sin puntas agresivas; evitar que se confundan con hojas de Terrakor.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-18",
+      "name": "Torkal",
+      "subtitle": "Tortuga de Ruinas",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Tortuga ancha de patas robustas y caparazón hecho de grandes piedras con pequeños brotes.",
+        "morphology": "Cuatro patas cortas, cabeza redonda adelantada, caparazón compuesto por bloques/placas, pequeñas zonas de musgo.",
+        "distinctive_marks": "Placas de roca con espiral, mechones de musgo y brotes sobre el caparazón.",
+        "palette": "Beige arena, marrón claro, verdes musgo y oliva.",
+        "expression_pose": "Ojos cerrados en sonrisa serena, cuerpo en reposo.",
+        "monochrome_coloring": "Diferenciar placa, roca y vegetación; evitar que la vista lateral parezca Terrakor al conservar cabeza sin cuernos y caparazón de tortuga.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-23",
+      "name": "Eryndra",
+      "subtitle": "Ave de Resonancia",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Ave pequeña de alas grandes y abiertas, con cola plumosa y copete elevado.",
+        "morphology": "Dos patas aviares, pico corto, alas amplias con capas de plumas visibles, cuello plumoso.",
+        "distinctive_marks": "Remolinos sobre las alas, plumas de cola estilizadas, copete rosado.",
+        "palette": "Crema, rosa pastel, lila y violeta claro; pico naranja suave.",
+        "expression_pose": "Alegre y curiosa, alas abiertas como en un saludo.",
+        "monochrome_coloring": "Plumas principales en grupos amplios para colorear; distinguir claramente dos alas y dos patas, sin multiplicar plumas minúsculas.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-25",
+      "name": "Zephyr",
+      "subtitle": "Cría de Viento Bruma",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Cría de dragón cuadrúpeda, con cuello erguido, pequeñas alas membranosas y cola larga terminada en punta curva.",
+        "morphology": "Cuatro patas cortas, cabeza con pequeñas crestas, pecho claro y un par de alas compactas; ojos plateados.",
+        "distinctive_marks": "Escamas oscuras atravesadas por vetas doradas, ojos de plata y diminutas alas de humo sólido; espiral/rombo dorado de la lámina infantil.",
+        "palette": "Negro pizarra, gris oscuro y dorado; plateado en ojos, humo gris-lila en alas.",
+        "expression_pose": "Mirada alerta y amistosa, sentado en tres cuartos.",
+        "monochrome_coloring": "Preservar cuatro patas, dos alas y marcas esenciales. El compendio fija escamas negras con líneas doradas, ojos plateados y alas de humo; no reinterpretar como dragón azul.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    },
+    {
+      "code": "K-27",
+      "name": "Gemmir",
+      "subtitle": "Topo de Cristal Tierno",
+      "identity_selected": true,
+      "visual_approved": false,
+      "model_sheet": null,
+      "pages_assigned": [],
+      "origin": "Forja de la Resonancia v0.74",
+      "canon_scope": "adaptacion_visual_libro",
+      "graphic": {
+        "version": "1.0",
+        "scope": "adaptacion_visual_exclusiva_libro",
+        "state": "propuesta_grafica_lamina_conjunto_ficha_individual_pendiente",
+        "silhouette": "Topo muy redondo y bajo, casi pegado al suelo, con grandes cristales irregulares sobresaliendo de la espalda.",
+        "morphology": "Cuerpo largo y achatado, hocico redondo con nariz rosada, bigotes finos; patas de excavador con uñas grandes suavizadas.",
+        "distinctive_marks": "Conjunto de cristales angulosos sobre el lomo, marcas romboidales en flanco, uñas redondeadas.",
+        "palette": "Marrón grisáceo, crema en hocico, rosa en nariz/uñas; cristales violeta, lila y ámbar.",
+        "expression_pose": "Sonrisa con ojos cerrados; actitud apacible.",
+        "monochrome_coloring": "Separar cristales de caparazón corporal y preservar las patas delanteras; no añadir puntas cortantes intimidantes.",
+        "source": "lamina_conjunto_de_16_aprobada_como_direccion_grafica",
+        "irreversible_rules": "ninguna_regla_del_juego_importada",
+        "pending": [
+          "asignacion_a_paginas",
+          "line_art_lamina_y_qa_impresion",
+          "hoja_individual_y_aprobacion_visual"
+        ]
+      }
+    }
+  ],
+  "pending": "Conservar K-01..K-04 aprobados; producir hojas K-05..K-27 por separado; subir PNG; asignación de páginas no definida.",
+  "visual_reference": {
+    "file": "bestiario_chibi_de_criaturas_mágicas.png",
+    "sha256": "1d27aa1fc8325ee9984df2a0eea154ed4ffc0691baaee2cfbbf8c8320810fd03",
+    "width": 1448,
+    "height": 1086,
+    "generation_id": "41779217-0084-4c01-8c97-7f0e09f700a1",
+    "asset_in_github": false,
+    "approval": "elenco conjunto elegido como dirección gráfica; las 12 hojas individuales siguen pendientes",
+    "note": "El PNG de la lámina comparativa está en el contexto original de conversación, no en el repositorio."
+  },
+  "page_assignment_file": "editorial/asignaciones_karmany_28.json",
+  "graphic_guide": "docs/15_GUIA_GRAFICA_ELENCO_16.md"
+}

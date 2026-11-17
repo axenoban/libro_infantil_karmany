@@ -16,6 +16,8 @@ Proyecto editorial independiente para producir un **libro digital en PDF** con d
 - [Plan de páginas estructurado](editorial/plan_paginas.json): datos individuales en JSON para continuidad editorial.
 - [Habilidades locales del proyecto](.agents/skills/): planificación, ilustración y control de calidad; son archivos de instrucciones y no implican instalación global en ChatGPT.
 - [Organización de recursos](assets/README.md): archivos y estados de aprobación.
+- [Guía gráfica del elenco completo](docs/15_GUIA_GRAFICA_ELENCO_16.md): descripciones de silueta, anatomía observada, rasgos, paleta y line art para las 16 identidades; 4 fichas individuales aprobadas y 12 pendientes.
+- [Matriz vacía de asignación Karmany–página](editorial/asignaciones_karmany_28.json): P01–P28 sin reparto todavía.
 
 ## Acuerdos principales
 
@@ -50,3 +52,9 @@ Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin re
 **D27 — 2026-11-15:** aprobado el índice base de **28 láminas** (8 iniciales, 10 intermedias y 10 avanzadas; 6 incluyen actividades). **No** implica que estén aprobadas las ilustraciones, criaturas específicas, composiciones finales o textos exactos.
 
 **Procedimiento obligatorio:** generar **P01**, presentar para revisión; solo con aprobación explícita guardar archivo y ficha como aprobados en `dev/karmany-core`; después generar P02. No preparar un lote completo sin aprobar las páginas anteriores.
+
+## Actualización: elenco y cuatro modelos visuales aprobados (2026-11-17)
+
+El creador aprobó el **elenco infantil de 16 Karmany seleccionados de Forja de la Resonancia v0.74** en sustitución de la propuesta de identidades originales LBK. Las fichas a color **K-01 Terrakor, K-02 Aquaris, K-03 Pyrox y K-04 Lumirra** fueron aprobadas individualmente y constituyen la **base de consistencia gráfica**. Ver [elenco y trazabilidad](docs/14_ELENCO_FORJA_INFANTIL_APROBADO.md) y [estado de recursos aprobados](assets/modelos_karmany/aprobados/README.md).
+
+**Importante:** el registro documental y los hashes están incorporados; **la subida binaria de los cuatro PNG originales a GitHub continúa pendiente**. No confundir fichas a color aprobadas con láminas finales publicables.
