@@ -50,3 +50,9 @@ Las pruebas visuales se desarrollarán fuera de `main`; no se integrarán sin re
 **D27 — 2026-11-15:** aprobado el índice base de **28 láminas** (8 iniciales, 10 intermedias y 10 avanzadas; 6 incluyen actividades). **No** implica que estén aprobadas las ilustraciones, criaturas específicas, composiciones finales o textos exactos.
 
 **Procedimiento obligatorio:** generar **P01**, presentar para revisión; solo con aprobación explícita guardar archivo y ficha como aprobados en `dev/karmany-core`; después generar P02. No preparar un lote completo sin aprobar las páginas anteriores.
+
+## Actualización: elenco y cuatro modelos visuales aprobados (2026-11-17)
+
+El creador aprobó el **elenco infantil de 16 Karmany seleccionados de Forja de la Resonancia v0.74** en sustitución de la propuesta de identidades originales LBK. Las fichas a color **K-01 Terrakor, K-02 Aquaris, K-03 Pyrox y K-04 Lumirra** fueron aprobadas individualmente y constituyen la **base de consistencia gráfica**. Ver [elenco y trazabilidad](docs/14_ELENCO_FORJA_INFANTIL_APROBADO.md) y [estado de recursos aprobados](assets/modelos_karmany/aprobados/README.md).
+
+**Importante:** el registro documental y los hashes están incorporados; **la subida binaria de los cuatro PNG originales a GitHub continúa pendiente**. No confundir fichas a color aprobadas con láminas finales publicables.

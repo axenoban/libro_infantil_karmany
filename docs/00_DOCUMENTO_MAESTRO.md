@@ -148,3 +148,11 @@ Esta decisión **resuelve D09 para las láminas interiores del libro** y sustitu
 5. Mantener `main` reservado a publicaciones; `dev/karmany-core` se actualiza con contenido validado.
 
 El primer modelo gráfico será un **Karmany solitario**, grande, alegre y sin fondo, a calidad REF-ART-01; su diseño concreto será una propuesta editorial no canónica hasta aprobación de personaje.
+
+## 12. Adenda D31–D33 — elenco elegido y fichas K-01 a K-04 (2026-11-17)
+
+- **D31 — Aprobado:** nuevo elenco de **16 identidades del catálogo Forja de la Resonancia v0.74**, adaptadas para niños. Sustituye la propuesta anterior de criaturas originales LBK como dirección editorial actual, sin alterar otros proyectos.
+- **D32 — Aprobado:** formato de **hoja individual a color**, con figura principal, expresiones, elementos distintivos y vistas frontal/lateral/posterior; mantener el formato validado en K-01 para las siguientes fichas.
+- **D33 — Aprobado:** hojas individuales **K-01 Terrakor, K-02 Aquaris, K-03 Pyrox, K-04 Lumirra** como bases de identidad gráfica del libro. El estado de los **PNG binarios en GitHub** es **pendiente**, aunque sus datos SHA-256 ya se registraron en la rama de producción.
+
+Referencia principal: [Elenco aprobado y control de activos](14_ELENCO_FORJA_INFANTIL_APROBADO.md). P01–P03 quedan protegidas; identidad exacta en esas páginas sin reasignación automática. **P04 sigue pausada**, y la siguiente ficha corresponde a **K-05 Floravia**.

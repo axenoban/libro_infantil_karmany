@@ -32,3 +32,9 @@ Toda ilustración de prueba debe llevar en su ficha:
 - Los recursos y las ilustraciones de terceros requieren derechos/permisos de uso claros antes de publicarse.
 - El contenido de prueba no debe presentarse como arte final ni como personaje oficial de los videojuegos o juegos de mesa.
 - Las decisiones aprobadas solo para este libro **no** modifican automáticamente el canon de Android, Forja de Resonancia o Blockchain.
+
+## Adenda 2026-11-17 — decisión explícita del creador
+
+Se seleccionaron 16 identidades del **catálogo de Forja de la Resonancia v0.74** para la adaptación infantil. Su **diseño visual en el libro** se aprueba por separado; hasta ahora: **K-01 Terrakor, K-02 Aquaris, K-03 Pyrox y K-04 Lumirra**. Esto sustituye la elección anterior de un elenco totalmente original LBK **solo en el proyecto editorial**. Ver [registro vigente](14_ELENCO_FORJA_INFANTIL_APROBADO.md).
+
+Las hojas aprobadas no establecen habilidades, estadísticas, versiones adultas ni canon visual del juego de mesa. El PNG de cada ficha se considera material verificable únicamente cuando su SHA-256 coincida con el archivo incorporado a GitHub.

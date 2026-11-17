@@ -23,3 +23,7 @@ Las carpetas se crearán al incorporar archivos reales, evitando directorios vac
 - `COVER-01_v01_propuesta.png`
 
 No sustituir un aprobado sin elevar versión y volver a validar. Conservar el original editable siempre que exista y registrar procedencia.
+
+## Referencias de identidad visual de Karmany
+
+Nuevo espacio: [`modelos_karmany/aprobados/`](modelos_karmany/aprobados/README.md), destinado a fichas de modelo a color. Las cuatro primeras **K-01 a K-04** están aprobadas visualmente y documentadas con hashes, pero sus PNG originales **están pendientes de carga en GitHub**. Estas referencias **no son** páginas finales de impresión.
